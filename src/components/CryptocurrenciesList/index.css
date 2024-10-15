@@ -1,0 +1,36 @@
+.img {
+  height: 250px;
+  width: 450px;
+}
+.heading {
+  color: #ffffff;
+  text-align: center;
+}
+.card-container {
+  border: 1px solid #00e7ff;
+  height: 40%;
+  padding-bottom: 40px;
+}
+.card-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgba(0, 231, 255, 0.2);
+}
+.bottom-para {
+  font-size: 10px;
+  font-weight: bold;
+
+  color: #ffffff;
+}
+.currency {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20%;
+}
+.ul {
+  padding: 0;
+}

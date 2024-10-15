@@ -1,0 +1,25 @@
+.li {
+  list-style: none;
+}
+.flexing {
+  display: flex;
+  justify-content: space-between;
+}
+.crypto-img {
+  height: 20px;
+  border-radius: 50%;
+}
+.crypto-img-flex {
+  display: flex;
+  align-items: center;
+}
+.crypto-img-flex1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bottom-para1 {
+  font-size: 4px;
+
+  color: #ffffff;
+}
